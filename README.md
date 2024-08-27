@@ -38,6 +38,6 @@ Did you know that I enjoy optimizing web performance to make sites faster and mo
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reyhansyah11&hide_title=true&layout=compact" alt="Top Languages" />
   </a>
   <a href="https://github.com/Reyhansyah11">
-    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Reyhansyah11&theme=dracula" alt="Activity Graph" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Reyhansyah11&theme=dracula" alt="Activity Graph" />
   </a>
 </div>
