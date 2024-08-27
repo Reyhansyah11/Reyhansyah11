@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I’m a developer passionate about building robust
 - **[My Portfolio](https://reyyyyy.vercel.app/)**: Explore my portfolio to see some of my recent work and projects. The site showcases my skills and expertise in React and Tailwind CSS.
 
 ### 📫 How to Reach Me
-- **Email**: [your-email@example.com](mailto:your-email@example.com)
+- **Email**: [your-email@example.com](mailto:mr.reihansyah@gmail.com)
 
 ### 😄 Fun Fact
 Did you know that I enjoy optimizing web performance to make sites faster and more efficient?
